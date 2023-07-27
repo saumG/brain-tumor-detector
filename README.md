@@ -12,4 +12,10 @@ The categories are glioma, meningioma, pituitary, and no tumor.
 This project will use the Brain Tumor MRI Dataset from Kaggle.
 
 ### Gliomas
-Account for around 1/3 of all brain tumors. Gliomas orignate in the glial cells that surround the brain's neurons. A glioma can hinder brain function and potentially be life-threatening based on its location or growth. 
+Account for around 1/3 of all brain tumors. Gliomas orignate in the glial cells that surround the brain's neurons. A glioma can hinder brain function and potentially be life-threatening based on its location or growth. There are three types of glial cells that produce these tumors:
+
+##### 1. Astrocytomas, including astrocytoma, anaplastic astrocytoma and glioblastoma
+##### 2. Ependymomas, including anaplastic ependymoma, myxopapillary ependymoma and subependymoma
+##### 3. Oligodendrogliomas, including oligodendroglioma, anaplastic oligodendroglioma and anaplastic oligoastrocytoma
+
+
