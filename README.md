@@ -24,3 +24,9 @@ A primary central nervous system tumor, begginning in the brain or the spinal co
 
 ### Pituitary 
 Forms in the pituitary gland which can cause irregular hormone levels in the body. They are mostly benign growths (adenomas) which do not spread to any other parts of the body. Although benign, they could still lead to major health problems due to their proximity with the brain. Pituitary cancers are very rare. 
+
+
+## Image Pre-processing
+1. Find the biggest contour
+2. Find the extreme points 
+3. Crop the image
