@@ -18,4 +18,5 @@ Account for around 1/3 of all brain tumors. Gliomas orignate in the glial cells 
 ##### 2. Ependymomas, including anaplastic ependymoma, myxopapillary ependymoma and subependymoma
 ##### 3. Oligodendrogliomas, including oligodendroglioma, anaplastic oligodendroglioma and anaplastic oligoastrocytoma
 
-
+### Meningioma
+A primary central nervous system tumor, begginning in the brain or the spinal cord. It forms on the three layers of membranes known as meninges. Meningiomas are slow-growing and around 90% are benign, often meaning no symptoms and they often require no immediate treatment. However, the growth of a benign tumor could result in serious complications. 
