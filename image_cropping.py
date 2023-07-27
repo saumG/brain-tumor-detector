@@ -64,7 +64,7 @@ def preprocess_and_save_images(input_dir, output_dir):
                 continue
 
             # Crop the image using the defined `crop_img()` function
-            cropped_image = crop_img(image)
+            cropped_image = crop_image_based_on_extreme_points(image)
 
             # Resize the cropped image to the desired size
             resized_image = cv2.resize(cropped_image, (IMG_SIZE, IMG_SIZE))
